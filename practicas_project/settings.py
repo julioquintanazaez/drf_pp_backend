@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "corsheaders",    
     "drf_yasg",  
-    "practicas_apis.app.ReverseApiConfig",  
+    "practicas_apis.apps.PracticasApisConfig",  
 ]
 
 MIDDLEWARE = [
